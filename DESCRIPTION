@@ -1,0 +1,9 @@
+Package: readMarkdownTable
+Type: Package
+Title: read markdown formatted tables into a data frame
+Version: 1.0
+Date: 2015-10-05
+Author: Stefano Da Ros
+Maintainer: Stefano Da Ros<sdaros@cip.li>
+Description: read markdown formatted tables into a data frame
+License: MIT
